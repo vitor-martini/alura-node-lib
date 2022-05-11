@@ -1,3 +1,2 @@
-# alura-node-primeira-biblioteca
-
-Criação de uma biblioteca que identifica links em textos no formado .md e valida se eles ainda estão funcionando.
+# alura-node-lib
+Development of a lib that identifys links in .md texts and validate if they are still working
